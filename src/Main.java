@@ -10,6 +10,7 @@ public class Main {
         task8();
         task9();
         task10();
+        System.out.println("ДЗ сделано");
     }
     public static void task1() {
         System.out.println("Задача 1:");
